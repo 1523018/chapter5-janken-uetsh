@@ -2,6 +2,7 @@ package com.example.enpit_p12.myapplication
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+//test...
 
 class MainActivity : AppCompatActivity() {
 
