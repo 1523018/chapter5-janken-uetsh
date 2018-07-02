@@ -6,7 +6,6 @@ import android.preference.PreferenceManager
 import kotlinx.android.synthetic.main.activity_result.*
 
 class ResultActivity : AppCompatActivity() {
-
     val gu =0
     val choki=1
     val pa=2
